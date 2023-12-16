@@ -3,8 +3,9 @@
 ## :woman_technologist: Обо мне
 Я QA Engineer.
 
-- :mailbox_with_mail:	Как меня найти:&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/s-tuvykina"><img alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/sonyaVt"><img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-<br>
+- :mailbox_with_mail:	Как меня найти
+[![Telegram: alxosenn](https://img.shields.io/badge/-oddfrog-gray?style=flat-square&logo=Telegram&link=https://t.me/oddfrog)](https://t.me/sonyaVt)
+[![Linkedin: alxosenn](https://img.shields.io/badge/-alxosen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-tuvykina/)](https://www.linkedin.com/in/s-tuvykina/)
 
 ### Языки и инструменты:
 <div>
@@ -22,6 +23,14 @@
 </div>
 <br>
 
+<details>
+<summary>Кликни для GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=flowerfrog&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaTuv&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+</p>
+</details>
 ### Примеры работ:
 
 :world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_okko.tv_python#readme">UI, API, Mobile autotests example</a>
