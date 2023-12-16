@@ -1,4 +1,4 @@
-### Привет, я Софья <img src= "https://media.tenor.com/0Tr2bkpHI2IAAAAi/hello.gif" width="70">
+### Привет, я Соня <img src= "https://media.tenor.com/0Tr2bkpHI2IAAAAi/hello.gif" width="70">
 
 ## :woman_technologist: Обо мне
 Я QA Engineer.
