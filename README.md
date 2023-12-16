@@ -26,11 +26,12 @@
 <details>
 <summary>Кликни для GitHub Stats</summary>
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=flowerfrog&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sofiaTuvg&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaTuv&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 </details>
+
 ### Примеры работ:
 
 :world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_okko.tv_python#readme">UI, API, Mobile autotests example</a>
