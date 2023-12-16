@@ -4,8 +4,8 @@
 Я QA Engineer.
 
 - :mailbox_with_mail:	Как меня найти
-[![Telegram: alxosenn](https://img.shields.io/badge/-oddfrog-gray?style=flat-square&logo=Telegram&link=https://t.me/oddfrog)](https://t.me/sonyaVt)
-[![Linkedin: alxosenn](https://img.shields.io/badge/-alxosen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-tuvykina/)](https://www.linkedin.com/in/s-tuvykina/)
+[![Telegram: sonyaVt](https://img.shields.io/badge/-sonyaVt-gray?style=flat-square&logo=Telegram&link=https://t.me/oddfrog)](https://t.me/sonyaVt)
+[![Linkedin: s-tuvykina](https://img.shields.io/badge/-s-tuvykina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-tuvykina/)](https://www.linkedin.com/in/s-tuvykina/)
 
 ### Языки и инструменты:
 <div>
