@@ -25,4 +25,4 @@
 
 ### :floppy_disk: Примеры работ:
 
-| :world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_okko.tv_python#readme">UI, API autotests example</a>  |
+:world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_okko.tv_python#readme">UI, API, Mobile UI autotests example</a>
