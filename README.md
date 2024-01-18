@@ -1,6 +1,5 @@
-### Привет, я Соня <img src= "https://media.tenor.com/0Tr2bkpHI2IAAAAi/hello.gif" width="70">
+### Привет, я Соня 
 
-## :woman_technologist: Обо мне
 Я QA Engineer.
 
 - :mailbox_with_mail:	Как меня найти:
@@ -35,4 +34,8 @@
 
 ### Примеры работ:
 
-:world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_okko.tv_python#readme">UI, API, Mobile autotests example</a>
+:world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_okko.tv_python#readme">UI autotests</a>
+:world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_shopbugred_api#readme">API autotests</a>
+
+
+
