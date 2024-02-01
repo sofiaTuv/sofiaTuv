@@ -22,9 +22,6 @@
 </div>
 <br>
 
-
-<details>
-<summary>Кликни для GitHub Stats</summary>
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sofiaTuv&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
@@ -34,8 +31,8 @@
 
 ### Примеры работ:
 
-:world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_okko.tv_python#readme">UI autotests</a>
-:world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_shopbugred_api#readme">API autotests</a>
+:world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_okko.tv_python#readme">Проект UI автотестов на онлайн-кинотеатр okko.tv</a>
+:world_map: <a target="_blank" href="https://github.com/sofiaTuv/project_shopbugred_api#readme">Проект API автотестов на тестовый магазин shop.bugred</a>
 
 
 
